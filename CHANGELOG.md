@@ -4,11 +4,14 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.6]
+## [1.0.8]
+
+-   Update screenshots to reflect changes
+
+## [1.0.7]
 
 -   Update Soft color scheme (badges, status bar, title bar, side bar) to lower contrast and add consistency
 -   Update badges & inactive title bar color in Minuit main theme
--   Update screenshots to reflect changes
 
 ## [1.0.6]
 
