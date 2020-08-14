@@ -4,6 +4,23 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.3]
+
+-   Add .gitignore to avoid pushing package versions to git
+-   Update intro in README
+
+## [1.0.2]
+
+-   Add icon to project
+-   Fix bad link in README
+
+## [1.0.1]
+
+-   Add Minuit and Minuit Soft color themes
+-   Add screenshots and moon icon
+-   Reduce image size
+-   Update README with screenshots and description
+
+## [1.0.0]
 
 -   Initial release
