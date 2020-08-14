@@ -1,6 +1,6 @@
 # Minuit ![](images/moon.png)
 
-Minuit is a Visual Studio Code theme inspired by [Dan Abramov's Overreacted](https://overreacted.io/) color scheme, with less, even softer colors. You will also get Minuit Soft with lowered contrast.
+Minuit is a Visual Studio Code theme inspired by [Dan Abramov's Overreacted](https://overreacted.io/) color scheme, which was itself based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) syntax theme. You will also get Minuit Soft with lowered contrast (which is still a work in progress and is likely to change).
 
 ## Minuit
 
