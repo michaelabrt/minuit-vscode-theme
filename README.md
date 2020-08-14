@@ -4,11 +4,11 @@ Minuit is a Visual Studio Code theme inspired by [Dan Abramov's Overreacted](htt
 
 ## Minuit
 
-![](images/Minuit-react.png)
+![](images/Minuit.react.png)
 
 ## Minuit Soft
 
-![](images/Minuit-Soft-react.png)
+![](images/Minuit-Soft.react.png)
 
 # Installation steps
 
