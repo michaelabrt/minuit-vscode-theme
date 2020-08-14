@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.0.6]
 
+-   Update Soft color scheme (badges, status bar, title bar, side bar) to lower contrast and add consistency
+-   Update badges & inactive title bar color in Minuit main theme
+-   Update screenshots to reflect changes
+
+## [1.0.6]
+
 -   Add GitHub repository to README
 
 ## [1.0.5]
