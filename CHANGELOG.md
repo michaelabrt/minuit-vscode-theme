@@ -4,6 +4,14 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.5]
+
+-   Update notes in README
+
+## [1.0.4]
+
+-   Update CHANGELOG with previous versions
+
 ## [1.0.3]
 
 -   Add .gitignore to avoid pushing package versions to git
