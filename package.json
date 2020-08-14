@@ -7,7 +7,7 @@
         "url": "https://github.com/mubartok/minuit-vscode-theme"
     },
     "description": "Minuit is based on Dan Abramov's Overreacted color scheme, with some tweaks. You will also get Minuit Soft with lowered contrast.",
-    "version": "1.0.9",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -25,6 +25,11 @@
                 "label": "Minuit Soft",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Minuit-Soft-color-theme.json"
+            },
+            {
+                "label": "Minuit Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Minuit-Blue-color-theme.json"
             }
         ]
     }
