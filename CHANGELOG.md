@@ -4,11 +4,14 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.6]
+
+-   Update entity class color to be consistent in JS and TS
+
 ## [1.1.5]
 
 -   Update comments and editor line numbers color to make it more visible
 -   Update css rules & types colors
--   Update entity class color to be consistent in JS and TS
 -   Update Minuit screenshot
 
 ## [1.1.4]
