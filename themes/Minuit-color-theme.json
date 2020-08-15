@@ -1670,7 +1670,7 @@
         {
             "scope": ["entity.name.type.tsx", "entity.name.type.module.tsx"],
             "settings": {
-                "foreground": "#7785ac"
+                "foreground": "#9099CC"
             }
         },
         {
