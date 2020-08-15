@@ -80,7 +80,7 @@
         "editorIndentGuide.background": "#18172e00",
         "editorInfo.foreground": "#92d8e6",
         "editorLineNumber.activeForeground": "#a2aabb",
-        "editorLineNumber.foreground": "#2d345a",
+        "editorLineNumber.foreground": "#414a7c",
         "editorLink.activeForeground": "#ffb998",
         "editorMarkerNavigation.background": "#151328",
         "editorMarkerNavigationError.background": "#1b273e",
@@ -330,14 +330,14 @@
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#414a7c",
+                "foreground": "#596296",
                 "fontStyle": ""
             }
         },
         {
             "scope": "comment.line.double-slash",
             "settings": {
-                "foreground": "#414a7c"
+                "foreground": "#596296"
             }
         },
         {
@@ -666,7 +666,7 @@
                 "meta.property-list entity.name.tag"
             ],
             "settings": {
-                "foreground": "#e8e8e8",
+                "foreground": "#9099cc",
                 "fontStyle": ""
             }
         },
@@ -1186,12 +1186,6 @@
             }
         },
         {
-            "scope": "meta.class entity.name.type.class.js",
-            "settings": {
-                "foreground": "#FFCB8B"
-            }
-        },
-        {
             "scope": "meta.method.declaration storage.type.js",
             "settings": {
                 "foreground": "#FFA7C4"
@@ -1592,7 +1586,7 @@
         {
             "scope": ["entity.name.type.ts", "entity.name.type.tsx"],
             "settings": {
-                "foreground": "#BD5279"
+                "foreground": "#9099cc"
             }
         },
         {
@@ -1665,13 +1659,13 @@
                 "meta.jsx.children.tsx"
             ],
             "settings": {
-                "foreground": "#CED2D6"
+                "foreground": "#E6E4E4"
             }
         },
         {
             "scope": "meta.class entity.name.type.class.tsx",
             "settings": {
-                "foreground": "#FFA7C4"
+                "foreground": "#7785ac"
             }
         },
         {
