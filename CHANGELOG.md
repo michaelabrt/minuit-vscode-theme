@@ -4,6 +4,12 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.2]
+
+-   Add new screenshots (Minuit in React, TypeScript, CSS + update preview of Minuit Soft)
+-   Update README
+-   Update package description
+
 ## [1.2.1]
 
 -   Update css units, colors codes and ids colors
