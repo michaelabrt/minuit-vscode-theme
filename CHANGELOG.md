@@ -4,6 +4,15 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.1]
+
+-   Update css units, colors codes and ids colors
+-   Update class instanciation color
+-   Update boolean colors to be more consistent between different file types
+-   Update highlight colors
+-   Update activity bar icons colors
+-   Fix warnings in JSON file
+
 ## [1.2.0]
 
 -   Keep only two variants to make it easier to maintain and to avoid clutter
