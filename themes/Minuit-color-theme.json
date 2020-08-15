@@ -367,17 +367,17 @@
         },
         {
             "scope": [
-                "constant.numeric.css",
                 "keyword.other.unit.percentage.css",
                 "keyword.other.unit.px.css",
+                "keyword.other.unit.vw.css",
+                "keyword.other.unit.vh.css",
                 "keyword.other.unit.em.css",
                 "keyword.other.unit.rem.css"
             ],
             "settings": {
-                "foreground": "#e8e8e8",
-                "fontStyle": ""
+                "foreground": "#afc6f0"
             }
-        },
+        }
         {
             "scope": [
                 "constant.language",
