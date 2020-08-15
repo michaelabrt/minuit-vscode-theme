@@ -704,7 +704,7 @@
         {
             "scope": "entity.other.attribute-name.id",
             "settings": {
-                "foreground": "#FAD430"
+                "foreground": "#FFA7C4"
             }
         },
         {
