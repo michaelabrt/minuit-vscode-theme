@@ -4,6 +4,12 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.0]
+
+-   Keep only two variants to make it easier to maintain and to avoid clutter
+-   Update JSON colors
+-   Update links colors
+
 ## [1.1.6]
 
 -   Update entity class color to be consistent in JS and TS
