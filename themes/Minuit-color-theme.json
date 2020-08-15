@@ -1255,7 +1255,7 @@
         {
             "scope": ["entity.name.type.js", "entity.name.type.module.js"],
             "settings": {
-                "foreground": "#FFCB8B",
+                "foreground": "#7785ac",
                 "fontStyle": ""
             }
         },
