@@ -1266,27 +1266,28 @@
             }
         },
         {
-            "scope": "support.type.property-name.json",
-            "settings": {
-                "foreground": "#C792EA"
-            }
-        },
-        {
             "scope": "support.constant.json",
             "settings": {
                 "foreground": "#CED2D6"
             }
         },
         {
-            "scope": "meta.structure.dictionary.value.json string.quoted.double",
+            "scope": [
+                "meta.structure.dictionary.value.json string.quoted.double",
+                "string.quoted.double.json.comments",
+                "string.quoted.double.json punctuation.definition.string.json"
+            ],
             "settings": {
-                "foreground": "#ECC48D"
+                "foreground": "#9BCDEE"
             }
         },
         {
-            "scope": "string.quoted.double.json punctuation.definition.string.json",
+            "scope": [
+                "punctuation.definition.dictionary.begin.json",
+                "punctuation.definition.dictionary.end.json"
+            ],
             "settings": {
-                "foreground": "#80CBC4"
+                "foreground": "#968DF9"
             }
         },
         {
@@ -1310,7 +1311,7 @@
         {
             "scope": ["entity.name.type.class.ruby"],
             "settings": {
-                "foreground": "#ECC48D"
+                "foreground": "#7785ac"
             }
         },
         {
@@ -1806,12 +1807,6 @@
             }
         },
         {
-            "scope": "string.quoted.double.json.comments",
-            "settings": {
-                "foreground": "#9BCDEE"
-            }
-        },
-        {
             "scope": "entity.other.attribute-name",
             "settings": {
                 "foreground": "#82AAF1"
@@ -1941,9 +1936,12 @@
             }
         },
         {
-            "scope": "support.type.property-name.json.comments",
+            "scope": [
+                "support.type.property-name.json",
+                "support.type.property-name.json.comments"
+            ],
             "settings": {
-                "foreground": "#968DF9"
+                "foreground": "#9099CC"
             }
         },
         {
