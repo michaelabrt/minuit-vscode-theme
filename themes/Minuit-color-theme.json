@@ -105,10 +105,10 @@
         "editorPane.background": "#151328",
         "editorRuler.foreground": "#151328",
         "editorSuggestWidget.background": "#151328",
-        "editorSuggestWidget.border": "#1b273e",
+        "editorSuggestWidget.border": "#151328",
         "editorSuggestWidget.foreground": "#bbc1cd",
         "editorSuggestWidget.highlightForeground": "#ffb998",
-        "editorSuggestWidget.selectedBackground": "#151328",
+        "editorSuggestWidget.selectedBackground": "#2a2747",
         "editorUnnecessaryCode.opacity": "#d6d9e0cc",
         "editorWarning.foreground": "#8ed2ff",
         "editorWhitespace.foreground": "#4e5a71",
@@ -139,8 +139,8 @@
         "inputValidation.infoBackground": "#9ac6f2",
         "inputValidation.infoBorder": "#9ac6f2",
         "inputValidation.infoForeground": "#0f2234",
-        "inputValidation.warningBackground": "#fff",
-        "inputValidation.warningBorder": "#fff",
+        "inputValidation.warningBackground": "#ddc096",
+        "inputValidation.warningBorder": "#ddc096",
         "inputValidation.warningForeground": "#332d0f",
         "list.activeSelectionBackground": "#1b273e",
         "list.activeSelectionForeground": "#d6d9e0",
@@ -330,8 +330,14 @@
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#687D99",
+                "foreground": "#414a7c",
                 "fontStyle": ""
+            }
+        },
+        {
+            "scope": "comment.line.double-slash",
+            "settings": {
+                "foreground": "#414a7c"
             }
         },
         {
@@ -453,7 +459,8 @@
             "scope": [
                 "entity.name.class",
                 "meta.class entity.name.type.class",
-                "meta.class entity.name.type.class.js"
+                "meta.class entity.name.type.class.js",
+                "entity.name.type.js"
             ],
             "settings": {
                 "foreground": "#7785ac"
@@ -1724,12 +1731,6 @@
             "scope": "variable.other.property",
             "settings": {
                 "foreground": "#E8E8E8"
-            }
-        },
-        {
-            "scope": "comment.line.double-slash",
-            "settings": {
-                "foreground": "#687D99"
             }
         },
         {
