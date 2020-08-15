@@ -4,9 +4,19 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.2.3]
+## [1.2.5]
+
+-   Improve global theme colors consistency
+-   Choose smoother indigo for conditional code colors
+
+## [1.2.4]
 
 -   Fix invisible scrollbars issue
+
+## [1.2.3]
+
+-   Fix two much pink in theme
+-   Use less and softer colors
 
 ## [1.2.2]
 
