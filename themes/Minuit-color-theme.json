@@ -679,13 +679,13 @@
         {
             "scope": "constant.other.color.rgb-value punctuation.definition.constant",
             "settings": {
-                "foreground": "#FFA7C4"
+                "foreground": "#C792EA"
             }
         },
         {
             "scope": "constant.other.color",
             "settings": {
-                "foreground": "#FFEB95"
+                "foreground": "#9BCDEE"
             }
         },
         {
@@ -1293,7 +1293,7 @@
         {
             "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
             "settings": {
-                "foreground": "#F87086"
+                "foreground": "#BD5279"
             }
         },
         {
@@ -1777,13 +1777,7 @@
             }
         },
         {
-            "scope": "constant.language.boolean.true",
-            "settings": {
-                "foreground": "#BD5279"
-            }
-        },
-        {
-            "scope": "constant.language.boolean.false",
+            "scope": ["constant.language.boolean.true", "constant.language.boolean.false"],
             "settings": {
                 "foreground": "#BD5279"
             }
