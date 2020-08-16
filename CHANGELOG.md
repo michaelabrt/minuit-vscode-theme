@@ -4,6 +4,10 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.14]
+
+-   Update types colors to be consistent with props (TypeScript)
+
 ## [1.2.13]
 
 -   Fix cap in filename
