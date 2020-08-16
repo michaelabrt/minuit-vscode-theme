@@ -4,6 +4,10 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.6]
+
+-   Update engine version compatibility
+
 ## [1.2.5]
 
 -   Improve global theme colors consistency
