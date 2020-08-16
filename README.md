@@ -18,10 +18,6 @@ Minuit is a Visual Studio Code theme inspired by [Dan Abramov's Overreacted blog
 
 ![](images/minuit-css.png)
 
-## Minuit Soft (Preview)
-
-![](images/minuit-soft-react.png)
-
 # Installation steps
 
 -   Choose Extensions from VSCode menu (macOS: `Cmd + Shift + X`, Windows: `Ctrl + Shift + X`)
