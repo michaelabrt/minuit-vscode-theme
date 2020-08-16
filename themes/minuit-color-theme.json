@@ -366,7 +366,7 @@
         {
             "scope": ["constant.numeric", "constant.character.numeric"],
             "settings": {
-                "foreground": "#98FAC9",
+                "foreground": "#98faf2ce",
                 "fontStyle": ""
             }
         },
@@ -380,7 +380,7 @@
                 "keyword.other.unit.rem.css"
             ],
             "settings": {
-                "foreground": "#afc6f0"
+                "foreground": "#968DF9"
             }
         },
         {
@@ -696,7 +696,7 @@
         {
             "scope": "keyword.other.unit",
             "settings": {
-                "foreground": "#98FAC9"
+                "foreground": "#98faf2ce"
             }
         },
         {
@@ -1769,7 +1769,7 @@
         {
             "scope": "constant.numeric.decimal",
             "settings": {
-                "foreground": "#98FAC9"
+                "foreground": "#98faf2ce"
             }
         },
         {
