@@ -8,6 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 -   Remove scrollbar shadows
 -   Adjust breadcrumb background color
+-   Update unused variables/imports opacity for clarity
 
 ## [1.2.11]
 
