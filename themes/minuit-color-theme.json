@@ -149,7 +149,7 @@
         "list.focusBackground": "#24223f",
         "list.focusForeground": "#bbc1cd",
         "list.highlightForeground": "#E2E2E2",
-        "list.hoverBackground": "#151328",
+        "list.hoverBackground": "#24223f8c",
         "list.hoverForeground": "#bbc1cd",
         "list.inactiveFocusBackground": "#151328",
         "list.inactiveSelectionBackground": "#151328",
