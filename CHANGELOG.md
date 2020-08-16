@@ -4,6 +4,10 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.11]
+
+-   Update word highlight background color
+
 ## [1.2.10]
 
 -   Update selection and indent dots colors
