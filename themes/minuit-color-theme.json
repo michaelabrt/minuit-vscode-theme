@@ -536,7 +536,7 @@
         {
             "scope": ["support.type", "support.class"],
             "settings": {
-                "foreground": "#E2E2E2"
+                "foreground": "#9099CC"
             }
         },
         {
