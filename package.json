@@ -24,7 +24,7 @@
             {
                 "label": "Minuit Soft",
                 "uiTheme": "vs-dark",
-                "path": "./themes/minuit-Soft-color-theme.json"
+                "path": "./themes/minuit-soft-color-theme.json"
             }
         ]
     }
