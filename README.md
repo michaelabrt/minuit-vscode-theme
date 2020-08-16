@@ -1,4 +1,8 @@
-# [Minuit](https://github.com/mubartok/minuit-vscode-theme) ![](images/moon.png)
+<p align="center">
+  <img src="https://github.com/mubartok/minuit-vscode-theme/blob/master/images/moon-128x128.png">
+</p>
+
+# [Minuit](https://github.com/mubartok/minuit-vscode-theme)
 
 ![](https://vsmarketplacebadge.apphb.com/version/mubartok.minuit.svg?labelColor=18172E&color=8EACE3)
 
