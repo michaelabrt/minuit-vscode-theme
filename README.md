@@ -4,7 +4,7 @@
 
 <!-- ![](https://vsmarketplacebadge.apphb.com/rating-short/mubartok.minuit.svg?labelColor=18172E&color=8EACE3) -->
 
-Minuit is a Visual Studio Code theme inspired by [Dan Abramov's Overreacted blog](https://overreacted.io/) color scheme, which was itself based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) syntax theme. It comes in two variants: Minuit and Minuit Soft (with lowered contrast).
+Minuit is a Visual Studio Code theme inspired by [Dan Abramov's Overreacted blog](https://overreacted.io/) color scheme, which was itself based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) syntax theme.
 
 ## Minuit (React)
 
@@ -29,4 +29,4 @@ Minuit is a Visual Studio Code theme inspired by [Dan Abramov's Overreacted blog
 
 ### Notes
 
-Minuit Soft is still a work in progress and is likely to change! If something is missing, doesn't work as intended or if you have a feature request, please don't hesitate to [fill an issue](https://github.com/mubartok/minuit-vscode-theme/issues).
+If something is missing, doesn't work as intended or if you have a feature request, please don't hesitate to [fill an issue](https://github.com/mubartok/minuit-vscode-theme/issues).
