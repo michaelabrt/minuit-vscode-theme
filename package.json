@@ -6,8 +6,8 @@
     "repository": {
         "url": "https://github.com/mubartok/minuit-vscode-theme"
     },
-    "description": "Minuit is strongly inspired by Dan Abramov's Overreacted and Sarah Drasner's Night Owl syntax themes. It comes in two variants: Minuit and Minuit Soft (with lowered contrast)",
-    "version": "1.2.14",
+    "description": "Minuit is strongly inspired by Dan Abramov's Overreacted and Sarah Drasner's Night Owl syntax themes.",
+    "version": "1.2.15",
     "engines": {
         "vscode": "^1.35.0"
     },
@@ -20,11 +20,6 @@
                 "label": "Minuit",
                 "uiTheme": "vs-dark",
                 "path": "./themes/minuit-color-theme.json"
-            },
-            {
-                "label": "Minuit Soft",
-                "uiTheme": "vs-dark",
-                "path": "./themes/minuit-soft-color-theme.json"
             }
         ]
     }
