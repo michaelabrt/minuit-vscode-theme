@@ -4,6 +4,10 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.16]
+
+-   Add Minuit Soft back with more consistency between both themes
+
 ## [1.2.15]
 
 -   Remove Minuit Soft for now as it's still a work in progress and is likely to change a lot
