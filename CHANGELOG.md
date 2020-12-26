@@ -1,8 +1,10 @@
 # Change Log
 
-All notable changes to the "minuit" extension will be documented in this file.
+All notable changes to the Minuit will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.2.18]
+
+-   Main theme should be fully functional in TypeScript
 
 ## [1.2.17]
 
