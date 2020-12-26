@@ -4,6 +4,11 @@ All notable changes to the "minuit" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.17]
+
+-   Fix color inconsistency between types (TypeScript)
+-   Update color palette to improve developer experience
+
 ## [1.2.16]
 
 -   Add Minuit Soft back with more consistency between both themes
