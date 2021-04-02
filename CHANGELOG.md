@@ -2,6 +2,10 @@
 
 All notable changes to the Minuit will be documented in this file.
 
+## [1.2.19]
+
+-   Fix some leftover greyed out types in TypeScript
+
 ## [1.2.18]
 
 -   Main theme should be fully functional in TypeScript

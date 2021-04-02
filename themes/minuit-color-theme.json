@@ -1188,7 +1188,7 @@
       {
         "scope": ["entity.name.type.instance.jsdoc", "entity.name.type.instance.phpdoc"],
         "settings": {
-          "foreground": "#5F7E97"
+          "foreground": "#AFBADA"
         }
       },
       {
@@ -1596,7 +1596,7 @@
           "meta.type.parameters.tsx entity.name.type"
         ],
         "settings": {
-          "foreground": "#5F7E97"
+          "foreground": "#AFBADA"
         }
       },
       {
