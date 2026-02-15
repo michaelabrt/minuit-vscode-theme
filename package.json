@@ -1,7 +1,7 @@
 {
     "name": "minuit",
     "displayName": "Minuit",
-    "publisher": "michaelabrt",
+    "publisher": "mubartok",
     "icon": "images/moon-128x128.png",
     "repository": {
         "url": "https://github.com/michaelabrt/minuit-vscode-theme"
